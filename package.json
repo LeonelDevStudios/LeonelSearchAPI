@@ -1,0 +1,20 @@
+{
+  "name": "leonelsearchapi",
+  "version": "1.0.1",
+  "description": "Official JavaScript client for LeonelSearchAPI. Perform searches easily with your API key.",
+  "homepage": "https://github.com/LeonelDevStudios/LeonelSearchAPI#readme",
+  "bugs": {
+    "url": "https://github.com/LeonelDevStudios/LeonelSearchAPI/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeonelDevStudios/LeonelSearchAPI.git"
+  },
+  "license": "MIT",
+  "author": "LeonelDev",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
